@@ -1,0 +1,52 @@
+body {
+  background-color: #fdfdff;
+  margin: auto 0;
+}
+
+.navbar {
+  height: 60px;
+  background-color: #ffffff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  padding: 10px 10px;
+  list-style-type: none;
+  font-family: Open sans;
+  align-content: center;
+}
+
+.main-section {
+  display: flex;
+  justify-content: center;
+}
+
+.primary-text {
+  font-family: Neue Haas Grotesk Display Pro;
+  font-style: normal;
+  font-weight: 550;
+  font-size: 68px;
+  line-height: 101px;
+  color: #020d50;
+  margin-top: 80px;
+}
+
+.section-text {
+  display: flex;
+  justify-content: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 0 auto;
+}
+
+.description {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 35px;
+  text-align: center;
+}
